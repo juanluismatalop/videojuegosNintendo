@@ -1,0 +1,131 @@
+{
+    "consolas": [
+      {
+        "nombre": "NES",
+        "juegos": [
+          { "titulo": "Super Mario Bros.", "anio": 1985, "genero": "Plataformas", "portada":"https://i.etsystatic.com/6824854/r/il/53debe/585887395/il_1080xN.585887395_gpan.jpg" },
+          { "titulo": "The Legend of Zelda", "anio": 1986, "genero": "Aventura", "portada":"https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/IHBURA2W25MNROLE244XFEUQD4.jpg" },
+          { "titulo": "Metroid", "anio": 1986, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/8595/metroid/fotos/ficha/metroid-1950675.webp" },
+          { "titulo": "Mega Man 2", "anio": 1988, "genero": "Plataformas/Acción", "portada":"https://preview.redd.it/qbg92sfki8sb1.jpg?auto=webp&s=7f977e66d784cf35646216ca3e456a48cf263edb" },
+          { "titulo": "Castlevania", "anio": 1986, "genero": "Acción", "portada":"https://i0.wp.com/multitap.com.ar/wp-content/uploads/2022/03/96230-castlevania-commodore-64-front-cover.jpg?w=800" },
+          { "titulo": "Excitebike", "anio": 1984, "genero": "Carreras", "portada":"https://i.ebayimg.com/images/g/4-QAAOSwyepdgj21/s-l1200.jpg" },
+          { "titulo": "Punch-Out!!", "anio": 1987, "genero": "Deportes", "portada":"https://uvejuegos.com/img/caratulas/8676/Mike-Tyson's-Punch-Out!!-NES-EU.jpg" },
+          { "titulo": "Duck Hunt", "anio": 1984, "genero": "Shooter", "portada":"https://i.ebayimg.com/images/g/jWQAAOSws2Fkjmv4/s-l1200.jpg" },
+          { "titulo": "Kid Icarus", "anio": 1986, "genero": "Plataformas", "portada":"https://uvejuegos.com/img/caratulas/8436/Kid-Icarus-NES-EEUU.jpg" },
+          { "titulo": "Final Fantasy", "anio": 1987, "genero": "RPG", "portada":"https://i.ebayimg.com/00/s/MTYwMFgxMTY0/z/LSkAAOSw4aZa~Kfx/$_57.JPG?set_id=8800005007" }
+        ]
+      },
+      {
+        "nombre": "Super Nintendo",
+        "juegos": [
+          { "titulo": "Super Mario World", "anio": 1990, "genero": "Plataformas", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/2/25/latest/20130727232019/Car%C3%A1tula_Super_Mario_World.png" },
+          { "titulo": "The Legend of Zelda: A Link to the Past", "anio": 1991, "genero": "Aventura", "portada":"https://uvejuegos.com/img/caratulas/829/The-Legend-of-Zelda-A-Link-to-the-Past-SNES-EU.jpg" },
+          { "titulo": "Super Metroid", "anio": 1994, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/9934/super_metroid/fotos/ficha/super_metroid-2260218.webp" },
+          { "titulo": "Donkey Kong Country", "anio": 1994, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/9285/donkey_kong_country/fotos/ficha/donkey_kong_country-2108021.jpg" },
+          { "titulo": "F-Zero", "anio": 1990, "genero": "Carreras", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/thumb/2/21/latest/20121031024149/Car%C3%A1tula_F-Zero.jpg/1200px-Car%C3%A1tula_F-Zero.jpg" },
+          { "titulo": "Chrono Trigger", "anio": 1995, "genero": "RPG", "portada":"https://i.ebayimg.com/images/g/7QQAAOSwoE1kPkEm/s-l1200.jpg" },
+          { "titulo": "EarthBound", "anio": 1994, "genero": "RPG", "portada":"https://uvejuegos.com/img/caratulas/8041/588301_40186_front.jpg" },
+          { "titulo": "Star Fox", "anio": 1993, "genero": "Shooter", "portada":"https://i.ebayimg.com/images/g/gfQAAOSwN6xkXr~s/s-l1200.jpg" },
+          { "titulo": "Secret of Mana", "anio": 1993, "genero": "RPG", "portada":"https://i.ebayimg.com/images/g/gTsAAOSwa89lqDer/s-l1200.jpg" },
+          { "titulo": "Super Mario RPG", "anio": 1996, "genero": "RPG", "portada":"https://uvejuegos.com/img/caratulas/1119/Super-Mario-RPG-Legend-of-the-Seven-Stars-SNES-EEUU.jpg" }
+        ]
+      },
+      {
+        "nombre": "Nintendo 64",
+        "juegos": [
+          { "titulo": "Super Mario 64", "anio": 1996, "genero": "Plataformas", "portada":"https://i.ebayimg.com/images/g/h3cAAOSwRxNkYCy9/s-l1200.jpg" },
+          { "titulo": "The Legend of Zelda: Ocarina of Time", "anio": 1998, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/3866/the_legend_of_zelda_ocarina_of_time/fotos/ficha/the_legend_of_zelda_ocarina_of_time-1692464.jpg" },
+          { "titulo": "Mario Kart 64", "anio": 1996, "genero": "Carreras", "portada":"https://uvejuegos.com/img/caratulas/671/1_Mario-Kart-64-EU.jpg" },
+          { "titulo": "Super Smash Bros.", "anio": 1999, "genero": "Lucha", "portada":"https://uvejuegos.com/img/caratulas/3889/Super-Smash-Bros.-EEUU-N64.jpg" },
+          { "titulo": "GoldenEye 007", "anio": 1997, "genero": "FPS", "portada":"https://i.ebayimg.com/images/g/-WQAAOSwPoRkYC0F/s-l1200.jpg" },
+          { "titulo": "Banjo-Kazooie", "anio": 1998, "genero": "Plataformas", "portada":"https://uvejuegos.com/img/caratulas/68/Banjo-Kazooie-N64-EU.jpg" },
+          { "titulo": "Perfect Dark", "anio": 2000, "genero": "FPS", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/thumb/3/3d/latest/20130922140200/Caratula_Perfect_Dark.jpg/1200px-Caratula_Perfect_Dark.jpg" },
+          { "titulo": "Paper Mario", "anio": 2000, "genero": "RPG", "portada":"https://i.3djuegos.com/juegos/9288/paper_mario__2001_/fotos/ficha/paper_mario__2001_-2108398.jpg" },
+          { "titulo": "Star Fox 64", "anio": 1997, "genero": "Shooter", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/7/74/latest/20121009131020/Car%C3%A1tula_Star_Fox_64.jpg" },
+          { "titulo": "The Legend of Zelda: Majora's Mask", "anio": 2000, "genero": "Aventura", "portada":"https://i.ebayimg.com/images/g/zqsAAOSwIrpkYC4c/s-l1200.jpg" }
+        ]
+      },
+      {
+        "nombre": "Game Boy",
+        "juegos": [
+          { "titulo": "Tetris", "anio": 1989, "genero": "Puzle", "portada":"" },
+          { "titulo": "Pokémon Red/Blue", "anio": 1996, "genero": "RPG", "portada":"" },
+          { "titulo": "The Legend of Zelda: Link's Awakening", "anio": 1993, "genero": "Aventura", "portada":"" },
+          { "titulo": "Kirby's Dream Land", "anio": 1992, "genero": "Plataformas", "portada":"" },
+          { "titulo": "Metroid II: Return of Samus", "anio": 1991, "genero": "Aventura/Acción", "portada":"" }
+        ]
+      },
+      {
+        "nombre": "GameCube",
+        "juegos": [
+          { "titulo": "Super Smash Bros. Melee", "anio": 2001, "genero": "Lucha", "portada":"" },
+          { "titulo": "The Legend of Zelda: The Wind Waker", "anio": 2002, "genero": "Aventura", "portada":"" },
+          { "titulo": "Metroid Prime", "anio": 2002, "genero": "Aventura/Acción", "portada":"" },
+          { "titulo": "Mario Kart: Double Dash!!", "anio": 2003, "genero": "Carreras", "portada":"" },
+          { "titulo": "Luigi's Mansion", "anio": 2001, "genero": "Aventura/Terror", "portada":"" }
+        ]
+      },
+      {
+        "nombre": "Game Boy Advance",
+        "juegos": [
+          { "titulo": "Pokémon Ruby/Sapphire", "anio": 2002, "genero": "RPG", "portada":"" },
+          { "titulo": "The Legend of Zelda: The Minish Cap", "anio": 2004, "genero": "Aventura", "portada":"" },
+          { "titulo": "Metroid Fusion", "anio": 2002, "genero": "Aventura/Acción", "portada":"" },
+          { "titulo": "Advance Wars", "anio": 2001, "genero": "Estrategia", "portada":"" },
+          { "titulo": "Mario Kart: Super Circuit", "anio": 2001, "genero": "Carreras", "portada":"" }
+        ]
+      },
+      {
+        "nombre": "Wii",
+        "juegos": [
+          { "titulo": "Super Mario Galaxy", "anio": 2007, "genero": "Plataformas", "portada":"" },
+          { "titulo": "The Legend of Zelda: Twilight Princess", "anio": 2006, "genero": "Aventura", "portada":"" },
+          { "titulo": "Metroid Prime 3: Corruption", "anio": 2007, "genero": "Aventura/Acción", "portada":"" },
+          { "titulo": "Mario Kart Wii", "anio": 2008, "genero": "Carreras", "portada":"" },
+          { "titulo": "Wii Sports", "anio": 2006, "genero": "Deportes", "portada":"" }
+        ]
+      },
+      {
+        "nombre": "Nintendo DS",
+        "juegos": [
+          { "titulo": "New Super Mario Bros.", "anio": 2006, "genero": "Plataformas", "portada":"" },
+          { "titulo": "Pokémon Diamond/Pearl", "anio": 2006, "genero": "RPG", "portada":"" },
+          { "titulo": "The Legend of Zelda: Phantom Hourglass", "anio": 2007, "genero": "Aventura", "portada":"" },
+          { "titulo": "Brain Age", "anio": 2005, "genero": "Educativo", "portada":"" },
+          { "titulo": "Mario Kart DS", "anio": 2005, "genero": "Carreras", "portada":"" }
+        ]
+      },
+      {
+        "nombre": "Wii U",
+        "juegos": [
+          { "titulo": "Super Mario 3D World", "anio": 2013, "genero": "Plataformas", "portada":"" },
+          { "titulo": "The Legend of Zelda: Breath of the Wild", "anio": 2017, "genero": "Aventura", "portada":"" },
+          { "titulo": "Splatoon", "anio": 2015, "genero": "Shooter", "portada":"" },
+          { "titulo": "Mario Kart 8", "anio": 2014, "genero": "Carreras", "portada":"" },
+          { "titulo": "Super Smash Bros. for Wii U", "anio": 2014, "genero": "Lucha", "portada":"" }
+        ]
+      },
+      {
+        "nombre": "Nintendo 3DS",
+        "juegos": [
+          { "titulo": "The Legend of Zelda: A Link Between Worlds", "anio": 2013, "genero": "Aventura", "portada":"" },
+          { "titulo": "Pokémon X/Y", "anio": 2013, "genero": "RPG", "portada":"" },
+          { "titulo": "Super Mario 3D Land", "anio": 2011, "genero": "Plataformas", "portada":"" },
+          { "titulo": "Fire Emblem: Awakening", "anio": 2012, "genero": "Estrategia/RPG", "portada":"" },
+          { "titulo": "Mario Kart 7", "anio": 2011, "genero": "Carreras", "portada":"" }
+        ]
+      },
+      {
+        "nombre": "Nintendo Switch",
+        "juegos": [
+          { "titulo": "The Legend of Zelda: Breath of the Wild", "anio": 2017, "genero": "Aventura", "portada":"" },
+          { "titulo": "Super Mario Odyssey", "anio": 2017, "genero": "Plataformas", "portada":"" },
+          { "titulo": "Animal Crossing: New Horizons", "anio": 2020, "genero": "Simulación", "portada":"" },
+          { "titulo": "Metroid Dread", "anio": 2021, "genero": "Aventura/Acción", "portada":"" },
+          { "titulo": "Super Smash Bros. Ultimate", "anio": 2018, "genero": "Lucha", "portada":"" }
+        ]
+      }
+
+    ]
+  }
+  
