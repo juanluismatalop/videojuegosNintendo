@@ -3,127 +3,127 @@
       {
         "nombre": "NES",
         "juegos": [
-          { "titulo": "Super Mario Bros.", "anio": 1985, "genero": "Plataformas", "portada":"https://i.etsystatic.com/6824854/r/il/53debe/585887395/il_1080xN.585887395_gpan.jpg" },
-          { "titulo": "The Legend of Zelda", "anio": 1986, "genero": "Aventura", "portada":"https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/IHBURA2W25MNROLE244XFEUQD4.jpg" },
-          { "titulo": "Metroid", "anio": 1986, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/8595/metroid/fotos/ficha/metroid-1950675.webp" },
-          { "titulo": "Mega Man 2", "anio": 1988, "genero": "Plataformas/Acción", "portada":"https://preview.redd.it/qbg92sfki8sb1.jpg?auto=webp&s=7f977e66d784cf35646216ca3e456a48cf263edb" },
-          { "titulo": "Castlevania", "anio": 1986, "genero": "Acción", "portada":"https://i0.wp.com/multitap.com.ar/wp-content/uploads/2022/03/96230-castlevania-commodore-64-front-cover.jpg?w=800" },
-          { "titulo": "Excitebike", "anio": 1984, "genero": "Carreras", "portada":"https://i.ebayimg.com/images/g/4-QAAOSwyepdgj21/s-l1200.jpg" },
-          { "titulo": "Punch-Out!!", "anio": 1987, "genero": "Deportes", "portada":"https://uvejuegos.com/img/caratulas/8676/Mike-Tyson's-Punch-Out!!-NES-EU.jpg" },
-          { "titulo": "Duck Hunt", "anio": 1984, "genero": "Shooter", "portada":"https://i.ebayimg.com/images/g/jWQAAOSws2Fkjmv4/s-l1200.jpg" },
-          { "titulo": "Kid Icarus", "anio": 1986, "genero": "Plataformas", "portada":"https://uvejuegos.com/img/caratulas/8436/Kid-Icarus-NES-EEUU.jpg" },
-          { "titulo": "Final Fantasy", "anio": 1987, "genero": "RPG", "portada":"https://i.ebayimg.com/00/s/MTYwMFgxMTY0/z/LSkAAOSw4aZa~Kfx/$_57.JPG?set_id=8800005007" }
+          { "titulo": "Super Mario Bros.", "anio": 1985, "genero": "Plataformas", "portada":"https://i.etsystatic.com/6824854/r/il/53debe/585887395/il_1080xN.585887395_gpan.jpg", "descripcion":"Clásico de plataformas donde Mario y Luigi deben rescatar a la Princesa Peach del malvado Bowser." },
+          { "titulo": "The Legend of Zelda", "anio": 1986, "genero": "Aventura", "portada":"https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/IHBURA2W25MNROLE244XFEUQD4.jpg" , "descripcion":"Aventura de mundo abierto en la que Link busca la Trifuerza para derrotar a Ganon y salvar a Zelda."},
+          { "titulo": "Metroid", "anio": 1986, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/8595/metroid/fotos/ficha/metroid-1950675.webp" , "descripcion":"Un juego de acción y exploración protagonizado por Samus Aran, quien debe derrotar a los Piratas Espaciales."},
+          { "titulo": "Mega Man 2", "anio": 1988, "genero": "Plataformas/Acción", "portada":"https://preview.redd.it/qbg92sfki8sb1.jpg?auto=webp&s=7f977e66d784cf35646216ca3e456a48cf263edb" , "descripcion":"Juego de plataformas y disparos donde Mega Man debe vencer a los Robot Masters creados por el Dr. Wily."},
+          { "titulo": "Castlevania", "anio": 1986, "genero": "Acción", "portada":"https://i0.wp.com/multitap.com.ar/wp-content/uploads/2022/03/96230-castlevania-commodore-64-front-cover.jpg?w=800" , "descripcion":"Un clásico de acción en el que Simon Belmont lucha contra Drácula y su ejército de criaturas de la noche."},
+          { "titulo": "Excitebike", "anio": 1984, "genero": "Carreras", "portada":"https://i.ebayimg.com/images/g/4-QAAOSwyepdgj21/s-l1200.jpg" , "descripcion":"Juego de carreras de motocross con obstáculos y la opción de diseñar tus propias pistas."},
+          { "titulo": "Punch-Out!!", "anio": 1987, "genero": "Deportes", "portada":"https://uvejuegos.com/img/caratulas/8676/Mike-Tyson's-Punch-Out!!-NES-EU.jpg" , "descripcion":"Juego de boxeo en el que Little Mac enfrenta a una serie de oponentes hasta llegar a Mike Tyson."},
+          { "titulo": "Duck Hunt", "anio": 1984, "genero": "Shooter", "portada":"https://i.ebayimg.com/images/g/jWQAAOSws2Fkjmv4/s-l1200.jpg" , "descripcion":"Shooter con pistola de luz donde el jugador debe disparar a patos antes de que escapen."},
+          { "titulo": "Kid Icarus", "anio": 1986, "genero": "Plataformas", "portada":"https://uvejuegos.com/img/caratulas/8436/Kid-Icarus-NES-EEUU.jpg" , "descripcion":"Juego de plataformas en el que el ángel Pit debe salvar a Palutena del malvado Medusa."},
+          { "titulo": "Final Fantasy", "anio": 1987, "genero": "RPG", "portada":"https://i.ebayimg.com/00/s/MTYwMFgxMTY0/z/LSkAAOSw4aZa~Kfx/$_57.JPG?set_id=8800005007" , "descripcion":"RPG en el que los Guerreros de la Luz deben restaurar los cristales mágicos y derrotar al mal."}
         ]
       },
       {
         "nombre": "Super Nintendo",
         "juegos": [
-          { "titulo": "Super Mario World", "anio": 1990, "genero": "Plataformas", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/2/25/latest/20130727232019/Car%C3%A1tula_Super_Mario_World.png" },
-          { "titulo": "The Legend of Zelda: A Link to the Past", "anio": 1991, "genero": "Aventura", "portada":"https://uvejuegos.com/img/caratulas/829/The-Legend-of-Zelda-A-Link-to-the-Past-SNES-EU.jpg" },
-          { "titulo": "Super Metroid", "anio": 1994, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/9934/super_metroid/fotos/ficha/super_metroid-2260218.webp" },
-          { "titulo": "Donkey Kong Country", "anio": 1994, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/9285/donkey_kong_country/fotos/ficha/donkey_kong_country-2108021.jpg" },
-          { "titulo": "F-Zero", "anio": 1990, "genero": "Carreras", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/thumb/2/21/latest/20121031024149/Car%C3%A1tula_F-Zero.jpg/1200px-Car%C3%A1tula_F-Zero.jpg" },
-          { "titulo": "Chrono Trigger", "anio": 1995, "genero": "RPG", "portada":"https://i.ebayimg.com/images/g/7QQAAOSwoE1kPkEm/s-l1200.jpg" },
-          { "titulo": "EarthBound", "anio": 1994, "genero": "RPG", "portada":"https://uvejuegos.com/img/caratulas/8041/588301_40186_front.jpg" },
-          { "titulo": "Star Fox", "anio": 1993, "genero": "Shooter", "portada":"https://i.ebayimg.com/images/g/gfQAAOSwN6xkXr~s/s-l1200.jpg" },
-          { "titulo": "Secret of Mana", "anio": 1993, "genero": "RPG", "portada":"https://i.ebayimg.com/images/g/gTsAAOSwa89lqDer/s-l1200.jpg" },
-          { "titulo": "Super Mario RPG", "anio": 1996, "genero": "RPG", "portada":"https://uvejuegos.com/img/caratulas/1119/Super-Mario-RPG-Legend-of-the-Seven-Stars-SNES-EEUU.jpg" }
+          { "titulo": "Super Mario World", "anio": 1990, "genero": "Plataformas", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/2/25/latest/20130727232019/Car%C3%A1tula_Super_Mario_World.png" , "descripcion":"Mario y Luigi exploran Dinosaur Land para rescatar a Peach y enfrentarse a Bowser."},
+          { "titulo": "The Legend of Zelda: A Link to the Past", "anio": 1991, "genero": "Aventura", "portada":"https://uvejuegos.com/img/caratulas/829/The-Legend-of-Zelda-A-Link-to-the-Past-SNES-EU.jpg" , "descripcion":"Link viaja entre el Mundo de la Luz y el Mundo Oscuro para salvar Hyrule."},
+          { "titulo": "Super Metroid", "anio": 1994, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/9934/super_metroid/fotos/ficha/super_metroid-2260218.webp" , "descripcion":"Secuela de Metroid donde Samus debe rescatar a un bebé Metroid secuestrado por Ridley."},
+          { "titulo": "Donkey Kong Country", "anio": 1994, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/9285/donkey_kong_country/fotos/ficha/donkey_kong_country-2108021.jpg" , "descripcion":"Plataformas en el que Donkey Kong y Diddy Kong recuperan su tesoro de plátanos robado por los Kremlings."},
+          { "titulo": "F-Zero", "anio": 1990, "genero": "Carreras", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/thumb/2/21/latest/20121031024149/Car%C3%A1tula_F-Zero.jpg/1200px-Car%C3%A1tula_F-Zero.jpg" , "descripcion":"Juego de carreras futurista con alta velocidad y naves flotantes."},
+          { "titulo": "Chrono Trigger", "anio": 1995, "genero": "RPG", "portada":"https://i.ebayimg.com/images/g/7QQAAOSwoE1kPkEm/s-l1200.jpg" , "descripcion":"RPG con viajes en el tiempo donde un grupo de héroes trata de evitar el fin del mundo."},
+          { "titulo": "EarthBound", "anio": 1994, "genero": "RPG", "portada":"https://uvejuegos.com/img/caratulas/8041/588301_40186_front.jpg" , "descripcion":"RPG donde Ness y sus amigos combaten fuerzas alienígenas para salvar la Tierra."},
+          { "titulo": "Star Fox", "anio": 1993, "genero": "Shooter", "portada":"https://i.ebayimg.com/images/g/gfQAAOSwN6xkXr~s/s-l1200.jpg" , "descripcion":"Shooter en 3D donde Fox McCloud y su equipo combaten contra Andross en el espacio."},
+          { "titulo": "Secret of Mana", "anio": 1993, "genero": "RPG", "portada":"https://i.ebayimg.com/images/g/gTsAAOSwa89lqDer/s-l1200.jpg" , "descripcion":"RPG de acción donde un grupo de héroes busca restaurar el poder del Mana."},
+          { "titulo": "Super Mario RPG", "anio": 1996, "genero": "RPG", "portada":"https://uvejuegos.com/img/caratulas/1119/Super-Mario-RPG-Legend-of-the-Seven-Stars-SNES-EEUU.jpg" , "descripcion":"RPG protagonizado por Mario y sus amigos en una aventura para derrotar a la malvada Smithy Gang."}
         ]
       },
       {
         "nombre": "Nintendo 64",
         "juegos": [
-          { "titulo": "Super Mario 64", "anio": 1996, "genero": "Plataformas", "portada":"https://i.ebayimg.com/images/g/h3cAAOSwRxNkYCy9/s-l1200.jpg" },
-          { "titulo": "The Legend of Zelda: Ocarina of Time", "anio": 1998, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/3866/the_legend_of_zelda_ocarina_of_time/fotos/ficha/the_legend_of_zelda_ocarina_of_time-1692464.jpg" },
-          { "titulo": "Mario Kart 64", "anio": 1996, "genero": "Carreras", "portada":"https://uvejuegos.com/img/caratulas/671/1_Mario-Kart-64-EU.jpg" },
-          { "titulo": "Super Smash Bros.", "anio": 1999, "genero": "Lucha", "portada":"https://uvejuegos.com/img/caratulas/3889/Super-Smash-Bros.-EEUU-N64.jpg" },
-          { "titulo": "GoldenEye 007", "anio": 1997, "genero": "FPS", "portada":"https://i.ebayimg.com/images/g/-WQAAOSwPoRkYC0F/s-l1200.jpg" },
-          { "titulo": "Banjo-Kazooie", "anio": 1998, "genero": "Plataformas", "portada":"https://uvejuegos.com/img/caratulas/68/Banjo-Kazooie-N64-EU.jpg" },
-          { "titulo": "Perfect Dark", "anio": 2000, "genero": "FPS", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/thumb/3/3d/latest/20130922140200/Caratula_Perfect_Dark.jpg/1200px-Caratula_Perfect_Dark.jpg" },
-          { "titulo": "Paper Mario", "anio": 2000, "genero": "RPG", "portada":"https://i.3djuegos.com/juegos/9288/paper_mario__2001_/fotos/ficha/paper_mario__2001_-2108398.jpg" },
-          { "titulo": "Star Fox 64", "anio": 1997, "genero": "Shooter", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/7/74/latest/20121009131020/Car%C3%A1tula_Star_Fox_64.jpg" },
-          { "titulo": "The Legend of Zelda: Majora's Mask", "anio": 2000, "genero": "Aventura", "portada":"https://i.ebayimg.com/images/g/zqsAAOSwIrpkYC4c/s-l1200.jpg" }
+          { "titulo": "Super Mario 64", "anio": 1996, "genero": "Plataformas", "portada":"https://i.ebayimg.com/images/g/h3cAAOSwRxNkYCy9/s-l1200.jpg" , "descripcion":"Mario debe recolectar estrellas de poder en un castillo mágico para rescatar a la Princesa Peach."},
+          { "titulo": "The Legend of Zelda: Ocarina of Time", "anio": 1998, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/3866/the_legend_of_zelda_ocarina_of_time/fotos/ficha/the_legend_of_zelda_ocarina_of_time-1692464.jpg" , "descripcion":"Link viaja en el tiempo para detener a Ganondorf y salvar Hyrule."},
+          { "titulo": "Mario Kart 64", "anio": 1996, "genero": "Carreras", "portada":"https://uvejuegos.com/img/caratulas/671/1_Mario-Kart-64-EU.jpg" , "descripcion":"Juego de carreras con personajes de Nintendo, ítems y pistas variadas."},
+          { "titulo": "Super Smash Bros.", "anio": 1999, "genero": "Lucha", "portada":"https://uvejuegos.com/img/caratulas/3889/Super-Smash-Bros.-EEUU-N64.jpg" , "descripcion":"Lucha con personajes icónicos de Nintendo en intensas batallas multijugador."},
+          { "titulo": "GoldenEye 007", "anio": 1997, "genero": "FPS", "portada":"https://i.ebayimg.com/images/g/-WQAAOSwPoRkYC0F/s-l1200.jpg" , "descripcion":"Shooter en primera persona basado en la película de James Bond."},
+          { "titulo": "Banjo-Kazooie", "anio": 1998, "genero": "Plataformas", "portada":"https://uvejuegos.com/img/caratulas/68/Banjo-Kazooie-N64-EU.jpg" , "descripcion":"Juego de plataformas donde Banjo y Kazooie deben rescatar a la hermana de Banjo de la bruja Gruntilda."},
+          { "titulo": "Perfect Dark", "anio": 2000, "genero": "FPS", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/thumb/3/3d/latest/20130922140200/Caratula_Perfect_Dark.jpg/1200px-Caratula_Perfect_Dark.jpg" , "descripcion":"Shooter en primera persona con una trama de espionaje y alienígenas."},
+          { "titulo": "Paper Mario", "anio": 2000, "genero": "RPG", "portada":"https://i.3djuegos.com/juegos/9288/paper_mario__2001_/fotos/ficha/paper_mario__2001_-2108398.jpg" , "descripcion":"RPG con un estilo visual único en el que Mario lucha contra Bowser y rescata a Peach."},
+          { "titulo": "Star Fox 64", "anio": 1997, "genero": "Shooter", "portada":"https://images.wikidexcdn.net/mwuploads/esssbwiki/7/74/latest/20121009131020/Car%C3%A1tula_Star_Fox_64.jpg" , "descripcion":"Shooter espacial con múltiples rutas y acción intensa."},
+          { "titulo": "The Legend of Zelda: Majora's Mask", "anio": 2000, "genero": "Aventura", "portada":"https://i.ebayimg.com/images/g/zqsAAOSwIrpkYC4c/s-l1200.jpg" , "descripcion":"Link tiene solo 72 horas para evitar la caída de la luna y salvar Termina."}
         ]
       },
       {
         "nombre": "Game Boy",
         "juegos": [
-          { "titulo": "Tetris", "anio": 1989, "genero": "Puzle", "portada":"https://i.3djuegos.com/juegos/14147/tetris__original_/fotos/ficha/tetris__original_-3567021.jpg" },
-          { "titulo": "Pokémon Red/Blue", "anio": 1996, "genero": "RPG", "portada":"https://uvejuegos.com/img/caratulas/1236/Car%C3%83%C2%A1tula_de_Pok%C3%83%C2%A9mon_Azul.jpg" },
-          { "titulo": "The Legend of Zelda: Link's Awakening", "anio": 1993, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/5262/the_legend_of_zelda__links_awakening/fotos/ficha/the_legend_of_zelda__links_awakening-1698078.webp" },
-          { "titulo": "Kirby's Dream Land", "anio": 1992, "genero": "Plataformas", "portada":"https://uvejuegos.com/img/caratulas/2014/Kirby's-Dream-Land-GB-EU.jpg" },
-          { "titulo": "Metroid II: Return of Samus", "anio": 1991, "genero": "Aventura/Acción", "portada":"https://uvejuegos.com/img/caratulas/1583/Metroid-II-Return-of-Samus-GB-EU.jpg" }
+          { "titulo": "Tetris", "anio": 1989, "genero": "Puzle", "portada":"https://i.3djuegos.com/juegos/14147/tetris__original_/fotos/ficha/tetris__original_-3567021.jpg" , "descripcion":"Clásico juego de rompecabezas en el que debes encajar bloques para formar líneas."},
+          { "titulo": "Pokémon Red/Blue", "anio": 1996, "genero": "RPG", "portada":"https://uvejuegos.com/img/caratulas/1236/Car%C3%83%C2%A1tula_de_Pok%C3%83%C2%A9mon_Azul.jpg" , "descripcion":"RPG donde capturas y entrenas Pokémon para convertirte en el campeón."},
+          { "titulo": "The Legend of Zelda: Link's Awakening", "anio": 1993, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/5262/the_legend_of_zelda__links_awakening/fotos/ficha/the_legend_of_zelda__links_awakening-1698078.webp" , "descripcion":"Link queda atrapado en una isla misteriosa y debe despertar al Pez del Viento para escapar."},
+          { "titulo": "Kirby's Dream Land", "anio": 1992, "genero": "Plataformas", "portada":"https://uvejuegos.com/img/caratulas/2014/Kirby's-Dream-Land-GB-EU.jpg" , "descripcion":"Kirby debe recuperar la comida robada de Dream Land enfrentando a King Dedede."},
+          { "titulo": "Metroid II: Return of Samus", "anio": 1991, "genero": "Aventura/Acción", "portada":"https://uvejuegos.com/img/caratulas/1583/Metroid-II-Return-of-Samus-GB-EU.jpg" , "descripcion":"Samus Aran debe exterminar a los Metroids en el planeta SR388."}
         ]
       },
       {
         "nombre": "GameCube",
         "juegos": [
-          { "titulo": "Super Smash Bros. Melee", "anio": 2001, "genero": "Lucha", "portada":"https://i.3djuegos.com/juegos/10133/smash_bros_melee/fotos/ficha/smash_bros_melee-2307224.webp" },
-          { "titulo": "The Legend of Zelda: The Wind Waker", "anio": 2002, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/3831/the_legend_of_zelda_the_wind_waker/fotos/ficha/the_legend_of_zelda_the_wind_waker-1692344.jpg" },
-          { "titulo": "Metroid Prime", "anio": 2002, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/3762/metroid_prime/fotos/ficha/metroid_prime-1695649.webp" },
-          { "titulo": "Mario Kart: Double Dash!!", "anio": 2003, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/5399/mario_kart_double_dash__/fotos/ficha/mario_kart_double_dash__-1716310.jpg" },
-          { "titulo": "Luigi's Mansion", "anio": 2001, "genero": "Aventura/Terror", "portada":"https://i.3djuegos.com/juegos/7058/luigis_mansion/fotos/ficha/luigis_mansion-1726011.jpg" }
+          { "titulo": "Super Smash Bros. Melee", "anio": 2001, "genero": "Lucha", "portada":"https://i.3djuegos.com/juegos/10133/smash_bros_melee/fotos/ficha/smash_bros_melee-2307224.webp" , "descripcion":"Segunda entrega del juego de peleas con personajes de Nintendo."},
+          { "titulo": "The Legend of Zelda: The Wind Waker", "anio": 2002, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/3831/the_legend_of_zelda_the_wind_waker/fotos/ficha/the_legend_of_zelda_the_wind_waker-1692344.jpg" , "descripcion":"Link navega por un océano para rescatar a su hermana y detener a Ganondorf."},
+          { "titulo": "Metroid Prime", "anio": 2002, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/3762/metroid_prime/fotos/ficha/metroid_prime-1695649.webp" , "descripcion":"Juego de acción y exploración en primera persona con Samus Aran"},
+          { "titulo": "Mario Kart: Double Dash!!", "anio": 2003, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/5399/mario_kart_double_dash__/fotos/ficha/mario_kart_double_dash__-1716310.jpg" , "descripcion":"Juego de carreras con dos personajes por vehículo."},
+          { "titulo": "Luigi's Mansion", "anio": 2001, "genero": "Aventura/Terror", "portada":"https://i.3djuegos.com/juegos/7058/luigis_mansion/fotos/ficha/luigis_mansion-1726011.jpg" , "descripcion":"Luigi explora una mansión embrujada para rescatar a Mario."}
         ]
       },
       {
         "nombre": "Game Boy Advance",
         "juegos": [
-          { "titulo": "Pokémon Ruby/Sapphire", "anio": 2002, "genero": "RPG", "portada":"https://media.vandal.net/ivandal/12/63/1200x630/12/1208/pokemon-rubi-zafiro-20142311577_1.jpg" },
-          { "titulo": "The Legend of Zelda: The Minish Cap", "anio": 2004, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/5272/the_legend_of_zelda__the_minish_cap/fotos/ficha/the_legend_of_zelda__the_minish_cap-1698120.jpg" },
-          { "titulo": "Metroid Fusion", "anio": 2002, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/10083/metroid_fusion/fotos/ficha/metroid_fusion-2294658.webp" },
-          { "titulo": "Advance Wars", "anio": 2001, "genero": "Estrategia", "portada":"https://i.3djuegos.com/juegos/5423/advance_wars/fotos/ficha/advance_wars-1716454.jpg" },
-          { "titulo": "Mario Kart: Super Circuit", "anio": 2001, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/15171/mario_kart_super_circuit/fotos/ficha/mario_kart_super_circuit-3807988.jpg" }
+          { "titulo": "Pokémon Ruby/Sapphire", "anio": 2002, "genero": "RPG", "portada":"https://media.vandal.net/ivandal/12/63/1200x630/12/1208/pokemon-rubi-zafiro-20142311577_1.jpg" , "descripcion":"RPG en el que entrenas Pokémon para vencer a la Liga Hoenn."},
+          { "titulo": "The Legend of Zelda: The Minish Cap", "anio": 2004, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/5272/the_legend_of_zelda__the_minish_cap/fotos/ficha/the_legend_of_zelda__the_minish_cap-1698120.jpg" , "descripcion":"Link debe encogerse y explorar Hyrule para salvar al reino de Vaati."},
+          { "titulo": "Metroid Fusion", "anio": 2002, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/10083/metroid_fusion/fotos/ficha/metroid_fusion-2294658.webp" , "descripcion":"Samus combate una amenaza biológica en una estación espacial."},
+          { "titulo": "Advance Wars", "anio": 2001, "genero": "Estrategia", "portada":"https://i.3djuegos.com/juegos/5423/advance_wars/fotos/ficha/advance_wars-1716454.jpg" , "descripcion":" Juego de estrategia por turnos con batallas tácticas."},
+          { "titulo": "Mario Kart: Super Circuit", "anio": 2001, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/15171/mario_kart_super_circuit/fotos/ficha/mario_kart_super_circuit-3807988.jpg" , "descripcion":"Juego de carreras con pistas de Super Mario Kart."}
         ]
       },
       {
         "nombre": "Wii",
         "juegos": [
-          { "titulo": "Super Mario Galaxy", "anio": 2007, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/1566/super_mario_galaxy/fotos/ficha/super_mario_galaxy-1685106.jpg" },
-          { "titulo": "The Legend of Zelda: Twilight Princess", "anio": 2006, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/1378/the_legend_of_zelda_twilight_princess/fotos/ficha/the_legend_of_zelda_twilight_princess-1680934.jpg" },
-          { "titulo": "Metroid Prime 3: Corruption", "anio": 2007, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/1565/metroid_prime_3_corruption/fotos/ficha/metroid_prime_3_corruption-1684410.webp" },
-          { "titulo": "Mario Kart Wii", "anio": 2008, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/2427/mario_kart_wii/fotos/ficha/mario_kart_wii-1687566.jpg" },
-          { "titulo": "Wii Sports", "anio": 2006, "genero": "Deportes", "portada":"https://i.3djuegos.com/juegos/1575/wii_sports/fotos/ficha/wii_sports-1682614.webp" }
+          { "titulo": "Super Mario Galaxy", "anio": 2007, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/1566/super_mario_galaxy/fotos/ficha/super_mario_galaxy-1685106.jpg" , "descripcion":"Mario viaja por galaxias para salvar a Peach del Rey Bowser."},
+          { "titulo": "The Legend of Zelda: Twilight Princess", "anio": 2006, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/1378/the_legend_of_zelda_twilight_princess/fotos/ficha/the_legend_of_zelda_twilight_princess-1680934.jpg" , "descripcion":"Link se transforma en lobo para salvar Hyrule de la oscuridad."},
+          { "titulo": "Metroid Prime 3: Corruption", "anio": 2007, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/1565/metroid_prime_3_corruption/fotos/ficha/metroid_prime_3_corruption-1684410.webp" , "descripcion":"Samus lucha contra el Phazon y los Piratas Espaciales."},
+          { "titulo": "Mario Kart Wii", "anio": 2008, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/2427/mario_kart_wii/fotos/ficha/mario_kart_wii-1687566.jpg" , "descripcion":"Juego de carreras con motocicletas y multijugador en línea."},
+          { "titulo": "Wii Sports", "anio": 2006, "genero": "Deportes", "portada":"https://i.3djuegos.com/juegos/1575/wii_sports/fotos/ficha/wii_sports-1682614.webp" , "descripcion":"Minijuegos deportivos con el control de movimiento de la Wii."}
         ]
       },
       {
         "nombre": "Nintendo DS",
         "juegos": [
-          { "titulo": "New Super Mario Bros.", "anio": 2006, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/1384/new_super_mario_bros/fotos/ficha/new_super_mario_bros-1680798.jpg" },
-          { "titulo": "Pokémon Diamond/Pearl", "anio": 2006, "genero": "RPG", "portada":"https://i.3djuegos.com/juegos/1777/pokemon_diamond__pearl/fotos/ficha/pokemon_diamond__pearl-1684346.jpg" },
-          { "titulo": "The Legend of Zelda: Phantom Hourglass", "anio": 2007, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/3994/the_legend_of_zelda_spirit_tracks/fotos/ficha/the_legend_of_zelda_spirit_tracks-1696589.webp" },
-          { "titulo": "Brain Age", "anio": 2005, "genero": "Educativo", "portada":"https://www.megaempenos.es/593-large_default/brain-age-nintendo-ds.jpg" },
-          { "titulo": "Mario Kart DS", "anio": 2005, "genero": "Carreras", "portada":"https://uvejuegos.com/img/caratulas/7116/Caja_NDS_MarioKart[1].jpg" }
+          { "titulo": "New Super Mario Bros.", "anio": 2006, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/1384/new_super_mario_bros/fotos/ficha/new_super_mario_bros-1680798.jpg", "descripcion":"Regreso a la jugabilidad clásica de Mario con nuevas mecánicas." },
+          { "titulo": "Pokémon Diamond/Pearl", "anio": 2006, "genero": "RPG", "portada":"https://i.3djuegos.com/juegos/1777/pokemon_diamond__pearl/fotos/ficha/pokemon_diamond__pearl-1684346.jpg", "descripcion":"Nueva región, nuevos Pokémon y un nuevo reto en la Liga Sinnoh." },
+          { "titulo": "The Legend of Zelda: Phantom Hourglass", "anio": 2007, "genero": "Aventura", "portada":"https://i.3djuegos.com/juegos/3994/the_legend_of_zelda_spirit_tracks/fotos/ficha/the_legend_of_zelda_spirit_tracks-1696589.webp", "descripcion":"Secuela de The Wind Waker con controles táctiles." },
+          { "titulo": "Brain Age", "anio": 2005, "genero": "Educativo", "portada":"https://www.megaempenos.es/593-large_default/brain-age-nintendo-ds.jpg", "descripcion":"Juego de entrenamiento mental con rompecabezas y ejercicios." },
+          { "titulo": "Mario Kart DS", "anio": 2005, "genero": "Carreras", "portada":"https://uvejuegos.com/img/caratulas/7116/Caja_NDS_MarioKart[1].jpg", "descripcion":" Juego de carreras con nuevos circuitos y multijugador en línea." }
         ]
       },
       {
         "nombre": "Wii U",
         "juegos": [
-          { "titulo": "Super Mario 3D World", "anio": 2013, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/9614/super_mario_wii_u/fotos/ficha/super_mario_wii_u-2388196.jpg" },
-          { "titulo": "The Legend of Zelda: Breath of the Wild", "anio": 2017, "genero": "Aventura", "portada":"https://m.media-amazon.com/images/I/91LHGBPqtYL.jpg" },
-          { "titulo": "Splatoon", "anio": 2015, "genero": "Shooter", "portada":"https://i.3djuegos.com/juegos/11090/splatoon/fotos/ficha/splatoon-2767631.jpg" },
-          { "titulo": "Mario Kart 8", "anio": 2014, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/9617/mario_kart_wii_u/fotos/ficha/mario_kart_wii_u-2468055.jpg" },
-          { "titulo": "Super Smash Bros. for Wii U", "anio": 2014, "genero": "Lucha", "portada":"https://i.3djuegos.com/juegos/7680/smash_bros__nombre_temporal_/fotos/ficha/smash_bros__nombre_temporal_-2665848.jpg" }
+          { "titulo": "Super Mario 3D World", "anio": 2013, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/9614/super_mario_wii_u/fotos/ficha/super_mario_wii_u-2388196.jpg", "descripcion":"Mario y sus amigos recorren niveles en 3D con poderes como el traje de gato." },
+          { "titulo": "The Legend of Zelda: Breath of the Wild", "anio": 2017, "genero": "Aventura", "portada":"https://m.media-amazon.com/images/I/91LHGBPqtYL.jpg", "descripcion":" Mundo abierto donde Link puede explorar libremente y enfrentarse a Ganon." },
+          { "titulo": "Splatoon", "anio": 2015, "genero": "Shooter", "portada":"https://i.3djuegos.com/juegos/11090/splatoon/fotos/ficha/splatoon-2767631.jpg", "descripcion":"Shooter en tercera persona con batallas de pintura multijugador." },
+          { "titulo": "Mario Kart 8", "anio": 2014, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/9617/mario_kart_wii_u/fotos/ficha/mario_kart_wii_u-2468055.jpg", "descripcion":"Juego de carreras con gravedad cero y nuevos personajes." },
+          { "titulo": "Super Smash Bros. for Wii U", "anio": 2014, "genero": "Lucha", "portada":"https://i.3djuegos.com/juegos/7680/smash_bros__nombre_temporal_/fotos/ficha/smash_bros__nombre_temporal_-2665848.jpg", "descripcion":"Juego de lucha con todos los personajes de nintendo" }
         ]
       },
       {
         "nombre": "Nintendo 3DS",
         "juegos": [
-          { "titulo": "The Legend of Zelda: A Link Between Worlds", "anio": 2013, "genero": "Aventura", "portada":"https://uvejuegos.com/img/caratulas/46452/Captura.JPG" },
-          { "titulo": "Pokémon X/Y", "anio": 2013, "genero": "RPG", "portada":"https://i.pinimg.com/736x/cf/e6/00/cfe6008a43065037cee854782bc390e7.jpg" },
-          { "titulo": "Super Mario 3D Land", "anio": 2011, "genero": "Plataformas", "portada":"https://www.on-digital.es/6434-large_default/super-mario-3d-land-3ds-caratula-fotocopia.jpg" },
-          { "titulo": "Fire Emblem: Awakening", "anio": 2012, "genero": "Estrategia/RPG", "portada":"https://i.3djuegos.com/juegos/8032/fire_emblem_3ds/fotos/ficha/fire_emblem_3ds-2231586.jpg" },
-          { "titulo": "Pokémon Sol", "anio": 2016, "genero": "RPG", "portada":"https://m.media-amazon.com/images/I/81aikTVCUgL.jpg" },
-          { "titulo": "Mario Kart 7", "anio": 2011, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/6227/mario_kart_3ds/fotos/ficha/mario_kart_3ds-1784529.jpg" }
+          { "titulo": "The Legend of Zelda: A Link Between Worlds", "anio": 2013, "genero": "Aventura", "portada":"https://uvejuegos.com/img/caratulas/46452/Captura.JPG", "descripcion":"" },
+          { "titulo": "Pokémon X/Y", "anio": 2013, "genero": "RPG", "portada":"https://i.pinimg.com/736x/cf/e6/00/cfe6008a43065037cee854782bc390e7.jpg", "descripcion":"" },
+          { "titulo": "Super Mario 3D Land", "anio": 2011, "genero": "Plataformas", "portada":"https://www.on-digital.es/6434-large_default/super-mario-3d-land-3ds-caratula-fotocopia.jpg", "descripcion":"" },
+          { "titulo": "Fire Emblem: Awakening", "anio": 2012, "genero": "Estrategia/RPG", "portada":"https://i.3djuegos.com/juegos/8032/fire_emblem_3ds/fotos/ficha/fire_emblem_3ds-2231586.jpg", "descripcion":"" },
+          { "titulo": "Pokémon Sol", "anio": 2016, "genero": "RPG", "portada":"https://m.media-amazon.com/images/I/81aikTVCUgL.jpg", "descripcion":"" },
+          { "titulo": "Mario Kart 7", "anio": 2011, "genero": "Carreras", "portada":"https://i.3djuegos.com/juegos/6227/mario_kart_3ds/fotos/ficha/mario_kart_3ds-1784529.jpg", "descripcion":"" }
         ]
       },
       {
         "nombre": "Nintendo Switch",
         "juegos": [
-          { "titulo": "The Legend of Zelda: Breath of the Wild", "anio": 2017, "genero": "Aventura", "portada":"https://uvejuegos.com/img/caratulas/56704/tloz-breath-of-the-wild-eur.jpg" },
-          { "titulo": "Super Mario Odyssey", "anio": 2017, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/14037/mario_switch/fotos/ficha/mario_switch-3759134.webp" },
-          { "titulo": "Animal Crossing: New Horizons", "anio": 2020, "genero": "Simulación", "portada":"https://uvejuegos.com/img/caratulas/61662/Animal-Crossing-New-Horizons-Switch-EU.jpg" },
-          { "titulo": "Metroid Dread", "anio": 2021, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/18039/metroid_5/fotos/ficha/metroid_5-5535780.webp" },
-          { "titulo": "Super Smash Bros. Ultimate", "anio": 2018, "genero": "Lucha", "portada":"https://i.3djuegos.com/juegos/15649/super_smash_bros_switch/fotos/ficha/super_smash_bros_switch-4581613.jpg" }
+          { "titulo": "The Legend of Zelda: Breath of the Wild", "anio": 2017, "genero": "Aventura", "portada":"https://uvejuegos.com/img/caratulas/56704/tloz-breath-of-the-wild-eur.jpg", "descripcion":"" },
+          { "titulo": "Super Mario Odyssey", "anio": 2017, "genero": "Plataformas", "portada":"https://i.3djuegos.com/juegos/14037/mario_switch/fotos/ficha/mario_switch-3759134.webp", "descripcion":"" },
+          { "titulo": "Animal Crossing: New Horizons", "anio": 2020, "genero": "Simulación", "portada":"https://uvejuegos.com/img/caratulas/61662/Animal-Crossing-New-Horizons-Switch-EU.jpg", "descripcion":"" },
+          { "titulo": "Metroid Dread", "anio": 2021, "genero": "Aventura/Acción", "portada":"https://i.3djuegos.com/juegos/18039/metroid_5/fotos/ficha/metroid_5-5535780.webp", "descripcion":"" },
+          { "titulo": "Super Smash Bros. Ultimate", "anio": 2018, "genero": "Lucha", "portada":"https://i.3djuegos.com/juegos/15649/super_smash_bros_switch/fotos/ficha/super_smash_bros_switch-4581613.jpg", "descripcion":"" }
         ]
       }
 
