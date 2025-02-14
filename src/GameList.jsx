@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import Card from "./Card";
 import CardExpand from "./CardExpand";
-import Search from "../Search";
-import Filter from "../Filter";
+import Search from "./Search";
+import Filter from "./Filter";
 import "./cardStyle.css";
 
 function GameList() {
