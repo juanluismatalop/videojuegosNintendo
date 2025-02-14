@@ -1,3 +1,5 @@
+import "./cardStyle.css";
+
 function CardExpand({ juego }) {
     return (
         <div className="card-expand">

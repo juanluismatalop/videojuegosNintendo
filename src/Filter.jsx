@@ -1,3 +1,5 @@
+import "./cardStyle.css";
+
 function Filter({ consolas, onFilter }) {
     return (
         <select 

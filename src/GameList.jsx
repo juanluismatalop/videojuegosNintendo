@@ -1,8 +1,9 @@
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 import Card from "./Card";
 import CardExpand from "./CardExpand";
 import Search from "./Search";
 import Filter from "./Filter";
+import FilterGenero from "./FilterGenero"; 
 import "./cardStyle.css";
 
 function GameList() {
@@ -10,6 +11,7 @@ function GameList() {
     const [hoveredJuego, setHoveredJuego] = useState(null);
     const [searchTerm, setSearchTerm] = useState("");
     const [selectedConsola, setSelectedConsola] = useState("");
+    const [selectedGenero, setSelectedGenero] = useState(""); 
     const [consolas, setConsolas] = useState([]);
 
     useEffect(() => {
@@ -31,18 +33,15 @@ function GameList() {
                 );
 
                 setJuegos(allGames);
-
-                // Extraer nombres de consolas sin duplicados
-                const consolasUnicas = [...new Set(data.map(consola => consola.nombre))];
-                setConsolas(consolasUnicas);
+                setConsolas([...new Set(data.map(consola => consola.nombre))]);
             })
             .catch(error => console.error("Error cargando juegos:", error));
     }, []);
 
-    // Filtrar juegos en base a la búsqueda y consola seleccionada
     const juegosFiltrados = juegos.filter(juego =>
         juego.titulo.toLowerCase().includes(searchTerm.toLowerCase()) &&
-        (selectedConsola === "" || juego.consola === selectedConsola)
+        (selectedConsola === "" || juego.consola === selectedConsola) &&
+        (selectedGenero === "" || juego.genero.includes(selectedGenero))
     );
 
     return (
@@ -50,6 +49,7 @@ function GameList() {
             <h1 className="neon">Lista de Juegos</h1>
             <Search onSearch={setSearchTerm} />
             <Filter consolas={consolas} onFilter={setSelectedConsola} />
+            <FilterGenero juegos={juegos} onFilter={setSelectedGenero} /> {/* Nuevo filtro */}
 
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '20px', position: 'relative' }}>
                 {juegosFiltrados.length > 0 ? (

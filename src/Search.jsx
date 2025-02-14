@@ -1,3 +1,5 @@
+import "./cardStyle.css";
+
 function Search({ onSearch }) {
     return (
         <input 
