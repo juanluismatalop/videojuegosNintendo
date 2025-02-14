@@ -18,8 +18,7 @@
     color: white;
     background-color: rgb(61, 61, 61);
     transform: scale(1.8);
-    box-shadow: 0 0 20px rgba(255, 9, 62, 0.7), 0 0 40px rgba(255, 0, 106, 0.7),
-   0 0 60px rgba(184, 8, 46, 0.7);
+    box-shadow: 0 0 20px rgba(255, 9, 62, 0.7), 0 0 40px rgba(255, 0, 106, 0.7),0 0 60px rgba(184, 8, 46, 0.7);
     transition: box-shadow 0.3s;
 }
 
@@ -56,3 +55,39 @@
     width: 100%;
     border-radius: 8px;
 }
+
+.search-input {
+    width: 100%;
+    box-shadow: 0 0 20px rgba(255, 9, 62, 0.7), 0 0 40px rgba(255, 0, 106, 0.7),0 0 60px rgba(184, 8, 46, 0.7);
+    max-width: 400px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    font-size: 16px;
+}
+
+.search-input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.filter-select {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 20px rgba(255, 9, 62, 0.7), 0 0 40px rgba(255, 0, 106, 0.7),0 0 60px rgba(184, 8, 46, 0.7);
+    color: white;
+    font-size: 16px;
+}
+
+.filter-select option {
+    background-color: black;
+    color: white;
+}
+
