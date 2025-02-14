@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+.gameList{
+  background-image: url("https://png.pngtree.com/background/20220726/original/pngtree-brick-wall-dark-gray-background-picture-image_1814346.jpg");
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

@@ -1,8 +1,14 @@
-function Card(){
+import "./cardStyle.css"
+
+function Card({juego}){
     return(
-        <div>
-            <h1></h1>//titulo
-            <img></img>//imagen del juego
+        <div className="card">
+            <p className="neon">{juego.titulo}</p>
+            <div className="cardImage">
+                <img src={juego.portada}/>
+            </div>
         </div>
     )
 }
+
+export default Card
